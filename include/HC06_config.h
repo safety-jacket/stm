@@ -1,0 +1,6 @@
+
+
+
+
+
+#define HC06_USART_CHANNEL HC06_USART1_MAIN

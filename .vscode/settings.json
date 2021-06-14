@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "gpio_interface.h": "c",
+        "rcc_interface.h": "c",
+        "usart_interface.h": "c",
+        "hc06_interfave.h": "c",
+        "bit_math.h": "c",
+        "usart_private.h": "c",
+        "std_types.h": "c",
+        "adc_private.h": "c",
+        "adc_interface.h": "c",
+        "type_traits": "c",
+        "app_interface.h": "c"
+    }
+}
