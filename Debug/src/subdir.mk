@@ -7,7 +7,6 @@ C_SRCS += \
 ../src/ADC_program.c \
 ../src/APP_program.c \
 ../src/GPIO_program.c \
-../src/HC06_program.c \
 ../src/NVIC_program.c \
 ../src/RCC_program.c \
 ../src/USART_program.c \
@@ -18,7 +17,6 @@ OBJS += \
 ./src/ADC_program.o \
 ./src/APP_program.o \
 ./src/GPIO_program.o \
-./src/HC06_program.o \
 ./src/NVIC_program.o \
 ./src/RCC_program.o \
 ./src/USART_program.o \
@@ -29,7 +27,6 @@ C_DEPS += \
 ./src/ADC_program.d \
 ./src/APP_program.d \
 ./src/GPIO_program.d \
-./src/HC06_program.d \
 ./src/NVIC_program.d \
 ./src/RCC_program.d \
 ./src/USART_program.d \

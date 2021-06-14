@@ -1,3 +1,11 @@
+/*********************************************************************************/
+/* Author    : Ahmed Hassan                                                      */
+/* Version   : V01                                                               */
+/* Date      : Jun 10,   2021                                                    */
+/*********************************************************************************/
+
+#ifndef ADC_INTERFACE_H
+#define ADC_INTERFACE_H
 
 
 void ADC_vidInit(void);
@@ -25,3 +33,6 @@ void ADC_vidEnableClock(void);
 #define ADC_CHANNEL7 7
 #define ADC_CHANNEL8 8
 #define ADC_CHANNEL9 9
+
+
+#endif

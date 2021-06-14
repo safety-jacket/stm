@@ -1,3 +1,11 @@
+/*********************************************************************************/
+/* Author    : Ahmed Hassan                                                      */
+/* Version   : V01                                                               */
+/* Date      : Jun 10,   2021                                                    */
+/*********************************************************************************/
+
+#ifndef ADC_PRIVATE_H
+#define ADC_PRIVATE_H
 
 
 typedef struct
@@ -27,3 +35,6 @@ typedef struct
 #define ADC1 ((ADC_registers *)(0x40012400))
 #define ADC2 ((ADC_registers *)(0x40012800))
 #define ADC3 ((ADC_registers *)(0x40013C00))
+
+
+#endif

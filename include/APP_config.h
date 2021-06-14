@@ -1,5 +1,11 @@
+/*********************************************************************************/
+/* Author    : Ahmed Hassan                                                      */
+/* Version   : V01                                                               */
+/* Date      : Jun 10,   2021                                                    */
+/*********************************************************************************/
 
-
+#ifndef APP_CONFIG_H
+#define APP_CONFIG_H
 
 #define APP_FLAME_CHANNEL       ADC_CHANNEL0
 #define APP_SMOKE_CHANNEL       ADC_CHANNEL1
@@ -18,3 +24,6 @@
 
 #define APP_FLAME_THRESHOLD 400
 #define APP_SMOKE_THRESHOLD 2800
+
+
+#endif
